@@ -1,2 +1,7 @@
 # libwf
-Just a Folder.
+# Just a Folder.
+
+# DEPs:
+# git
+# curl 
+# rsync

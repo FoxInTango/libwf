@@ -1,0 +1,12 @@
+{
+    "name":"folder_name",
+    "imports":[],
+    "actions":[],
+    "subfolders":[
+        {
+            "name":"subfolder_name",
+            "actions":[
+            ]
+        }
+    ]
+}
